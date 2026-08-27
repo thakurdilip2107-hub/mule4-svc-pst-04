@@ -13,7 +13,6 @@
 
     <jms:config name="JMS_Config">
         <jms:active-mq-connection/>
-        <jms:producer-config persistent="true"/>
     </jms:config>
 
 </mule>
